@@ -1,0 +1,22 @@
+{
+  "name": "pagination-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "start":"nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.6.1",
+    "cors": "^2.8.5",
+    "elasticsearch": "^16.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3"
+  }
+}
