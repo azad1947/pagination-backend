@@ -1,4 +1,4 @@
-[
+export default [
   {
     "movieId": 1,
     "title": "Toy Story (1995)",
