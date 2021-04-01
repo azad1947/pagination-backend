@@ -1,4 +1,4 @@
-## this is the backend for [pagination-app](https://github.com/azad1947/pagination-app)
+## this is the backend for [pagination](https://github.com/azad1947/pagination-app)
 
 ### prerequisite :-
  1. **`use node >= 14`**
